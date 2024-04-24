@@ -13,28 +13,20 @@
 *{
     margin: 0;
     padding: 0;
-    border: none;
-    outline: none;
-    box-sizing: border-box;
-    text-decoration: none;
+    font-size: 1em;
 }
 
 html, body{
-    min-height: 100hv;
-    background-color: darkgray;
+    min-height: 100vh;
+    background-color: white;
     font-family: var(--fonte1);
-
-    
 }
-
-
 
 header {
     background-color: black;
     color: white;
     padding: 10px;
     text-align: center;
-    
 }
 
 header > h1{
